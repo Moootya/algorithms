@@ -131,3 +131,7 @@ dmypy.json
 #DOCKER
 /postgresql
 /побитовый сдвиг.py
+/.hello.cpp.swn
+/.hello.cpp.swo
+/.hello.cpp.swp
+/a.out
