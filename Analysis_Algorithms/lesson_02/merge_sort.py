@@ -1,5 +1,6 @@
 import math
 
+# https://docs.google.com/presentation/d/1A8a3-2WkfFQarcu_52oLs706Z5XVDVX3FP9Jm9hqjxk/edit?usp=sharing
 # arr[l..r] подмассив для сортировки
 # l and r левые и правые индексы массива соответственно
 # Массив будет разбиваться, пока его элементы не будут равны одному элементу или пустому множеству
