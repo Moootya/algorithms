@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void insertion_sort(int *, int); // 
+void insertion_sort(int *, int); // прототип
 
 int main(int argc, char* argv[]) 
 {
