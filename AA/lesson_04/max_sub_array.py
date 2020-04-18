@@ -83,6 +83,6 @@ def find_max_crossing_subarray(arr, left, mid, right):
 
 
 if __name__ == '__main__':
-    arr = [-1, -2, -3, 1, 1, -9]
+    arr = [-2, -3, -9, -1]
     result = find_max_subarray(arr, 0, len(arr)-1)
     print(result)
